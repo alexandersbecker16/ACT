@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tests/*.html
+.preview/
+_pdf_preview/
+preview/
